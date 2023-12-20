@@ -1,0 +1,22 @@
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.exe
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.pdb
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.dll
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.xml
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csprojResolveAssemblyReference.cache
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\Main.Properties.Resources.resources
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.GenerateResource.Cache
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.exe
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.pdb
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.exe.config
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.exe
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.pdb
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.dll
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.xml
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.AssemblyReference.cache
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\Main.FormGame.resources
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\Main.Properties.Resources.resources
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.GenerateResource.cache
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.CoreCompileInputs.cache
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.CopyComplete
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.exe
+C:\Users\victim\Desktop\OpenSourceViruses-main\OpenSourceViruses-main\OpenSourceViruses-main\JigsawRansomware\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.pdb
